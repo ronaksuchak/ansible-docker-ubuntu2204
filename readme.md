@@ -3,7 +3,7 @@
 ### Prerequisites 
 
 1. python and ansible is installed if not then checkout [this link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html)
-2. SSH key is setup in remote system check out [this guide](https://www.commandprompt.com/education/setting-up-an-ssh-connection/) if not done
+2. SSH key is setup in remote system check out [this guide]([https://www.commandprompt.com/education/setting-up-an-ssh-connection/](https://kerneltalks.com/howto/establish-passwordless-ssh-between-two-servers/) if not done
 
 ## running ansible plabook
 1. First make sure you have both files ready (`playbook.yml` and `host.ini`)
